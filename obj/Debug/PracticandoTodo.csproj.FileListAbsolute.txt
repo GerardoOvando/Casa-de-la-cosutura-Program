@@ -1,0 +1,7 @@
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\bin\Debug\PracticandoTodo.exe.config
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\bin\Debug\PracticandoTodo.exe
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\bin\Debug\PracticandoTodo.pdb
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\obj\Debug\PracticandoTodo.csproj.AssemblyReference.cache
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\obj\Debug\PracticandoTodo.csproj.CoreCompileInputs.cache
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\obj\Debug\PracticandoTodo.exe
+E:\Cursos\CURSO DE C#\Practicas\PracticandoTodo\obj\Debug\PracticandoTodo.pdb
